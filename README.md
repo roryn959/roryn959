@@ -1,4 +1,4 @@
 - Hello, I'm Rory!
-- I'm interested in anything related to programming. Particularly AI/ML, Quantum Computing, and Security.
-- I'm currently doing a Computer Science BSc
+- I'm interested in anything related to programming. Particularly AI/ML, networks, and full-stack.
+- Computer Science BSc - UCL 2023
 - Contact me at roryn959@icloud.com
