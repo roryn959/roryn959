@@ -1,4 +1,5 @@
-- Hello, I'm Rory!
-- I'm interested in anything related to programming. Particularly AI/ML, networks, and full-stack.
+- Hello, I'm Rory
+- I like programming things. Networks, physics, low-level, and quantum things are my favourite.
+- I'm an ardent never-nester (don't judge my old projects though)
 - Computer Science BSc - UCL 2023
 - Contact me at roryn959@icloud.com
