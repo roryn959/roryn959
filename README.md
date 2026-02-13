@@ -1,5 +1,4 @@
 - Hello, I'm Rory
-- I like programming things. Networks, physics, low-level, and quantum things are my favourite.
-- I'm an ardent never-nester (don't judge my old projects though)
+- I like programming things involving graphics, networks, physics, maths, and game theory.
 - Computer Science BSc - UCL 2023
 - Contact me at roryn959@icloud.com
